@@ -1,0 +1,52 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite the preferred citation below."
+title: "Towards knowledge-based workflows: a semantic approach to atomistic simulations for mechanical and thermodynamic properties"
+type: dataset
+
+authors:
+  - family-names: "Azócar Guzmán"
+    given-names: "Abril"
+    email: "a.azocar.guzman@fz-juelich.de"
+    affiliation: "Institute for Advanced Simulations – Materials Data Science and Informatics (IAS-9), Forschungszentrum Jülich GmbH, Jülich, Germany"
+    corresponding: true
+  - family-names: "Luu"
+    given-names: "Hoang-Thien"
+    affiliation: "Institute of Metallurgy, Chair of Computational Material Sciences/Engineering, Technical University of Clausthal, Clausthal-Zellerfeld, Germany"
+  - family-names: "Menon"
+    given-names: "Sarath"
+    affiliation: "Interdisciplinary Centre for Advanced Materials Simulation (ICAMS), Ruhr-Universität Bochum, Bochum, Germany; Max Planck Institute for Sustainable Materials, Düsseldorf, Germany"
+  - family-names: "Hickel"
+    given-names: "Tilmann"
+    affiliation: "Bundesanstalt für Materialforschung und -prüfung, Berlin, Germany"
+  - family-names: "Merkert"
+    given-names: "Nina"
+    affiliation: "Institute of Metallurgy, Chair of Computational Material Sciences/Engineering, Technical University of Clausthal, Clausthal-Zellerfeld, Germany"
+  - family-names: "Sandfeld"
+    given-names: "Stefan"
+    affiliation: "Institute for Advanced Simulations – Materials Data Science and Informatics (IAS-9), Forschungszentrum Jülich GmbH, confirming Jülich, Germany"
+
+keywords:
+  - Atomistic simulations
+  - Molecular dynamics
+  - Mechanical properties
+  - Thermodynamic properties
+  - Simulation workflows
+  - FAIR data
+  - Knowledge graphs
+
+preferred-citation:
+  type: article
+  title: "Towards knowledge-based workflows: a semantic approach to atomistic simulations for mechanical and thermodynamic properties"
+  authors:
+    - family-names: "Azócar Guzmán"
+      given-names: "Abril"
+    - family-names: "Luu"
+      given-names: "Hoang-Thien"
+    - family-names: "Menon"
+      given-names: "Sarath"
+    - family-names: "Hickel"
+      given-names: "Tilmann"
+    - family-names: "Merkert"
+      given-names: "Nina"
+    - family-names: "Sandfeld"
+      given-names: "Stefan"
