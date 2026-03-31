@@ -1,0 +1,16 @@
+name: workflow-rdf
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - pandas
+  - scipy
+  - matplotlib
+  - jupyterlab
+  - pyyaml
+  - pip:
+    - atomrdf
+    - tools4rdf
+    - rdflib
+    - pychromatic

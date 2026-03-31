@@ -1,5 +1,5 @@
 @prefix dcat: <http://www.w3.org/ns/dcat#> .
-@prefix ns1: <http://purls.helmholtz-metadaten.de/asmo/> .
+@prefix ns1: <https://purls.helmholtz-metadaten.de/asmo/> .
 @prefix ns2: <http://purls.helmholtz-metadaten.de/cmso/> .
 @prefix ns3: <http://purls.helmholtz-metadaten.de/cdos/podo/> .
 @prefix ns4: <http://purls.helmholtz-metadaten.de/cdos/cdco/> .
